@@ -15,5 +15,11 @@
     "tape",
     "tutorial"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
 }
